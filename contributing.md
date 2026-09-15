@@ -29,13 +29,9 @@
 </div>
 
 <div align="center">
-  <img width="1280" height="720" alt="maxresdefault (5)" src="https://github.com/user-attachments/assets/52c13908-cea1-4843-a47e-3d3f8aea5af6" />
+  <img width="1280" height="720" alt="maxresdefault (5)" src="https://github.com/user-attachments/assets/fb6d0320-8e1b-4214-8ab2-9eab0582a8e9" />
 
 </div>
-
----
-
-
 
 ---
 
@@ -76,13 +72,13 @@
 <table>
 <tr>
 <td align="center" width="33%">
-  <img width="320" height="280" alt="deepseek_svg_20260915_827e37 (1)" src="https://github.com/user-attachments/assets/1dca5b1d-2953-43b7-8127-9009e71968c8" />
+  <img width="320" height="280" alt="deepseek_svg_20260915_f564a7" src="https://github.com/user-attachments/assets/a88168dc-010e-432e-917a-4678fc20eb1a" />
 </td>
 <td align="center" width="33%">
-  <img width="320" height="280" alt="deepseek_svg_20260915_2cd46a" src="https://github.com/user-attachments/assets/a5f11e29-8abc-4d59-bcf6-3970e2c82893" />
+  <img width="320" height="280" alt="deepseek_svg_20260915_f160a6" src="https://github.com/user-attachments/assets/5ef690dd-e468-4e82-b842-b83cc2da1584" />
 </td>
 <td align="center" width="33%">
-  <img width="320" height="280" alt="deepseek_svg_20260915_085d19" src="https://github.com/user-attachments/assets/77b24f82-9e03-483e-8b54-49d43118c440" />
+  <img width="320" height="280" alt="deepseek_svg_20260915_79c64a" src="https://github.com/user-attachments/assets/aeabbdfd-2426-4c87-89d4-746bd9edc089" />
 </td>
 </tr>
 </table>
@@ -106,7 +102,6 @@
 - ✅ 个性化设置无限制
 - ✅ 提升系统性能
 
-
 ---
 
 ## 🎯 核心功能
@@ -120,20 +115,6 @@
 | **无需注册** | 不需要账号 | 保护隐私 |
 | **离线激活** | 无需网络连接 | 方便快捷 |
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="图文教程" src="cards/card-07.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="一键激活" src="cards/card-08.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="无需注册" src="cards/card-09.svg" />
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🔍 激活方式详解
@@ -144,20 +125,6 @@
 | **KMS 激活** | 使用密钥管理服务 | 稳定可靠 |
 | **电话激活** | 通过电话获取确认 ID | 离线可用 |
 | **MAK 密钥** | 多次激活密钥 | 适合企业 |
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="KMS 激活" src="cards/card-01.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="数字许可证" src="cards/card-02.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="电话激活" src="cards/card-03.svg" />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -170,20 +137,6 @@
 | **3. 运行** | 以管理员身份运行 |
 | **4. 选择** | 选择 Windows 版本 |
 | **5. 激活** | 点击激活按钮，等待完成 |
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="下载工具" src="cards/card-04.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="解压运行" src="cards/card-05.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="一键激活" src="cards/card-06.svg" />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -198,20 +151,6 @@
 | **激活提示** | 频繁弹出 | ✅ 无 |
 | **价格** | 需购买 | ✅ **免费** |
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="未激活" src="cards/card-07.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="已激活" src="cards/card-08.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="免费" src="cards/card-09.svg" />
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🌍 支持的 Windows 版本
@@ -225,20 +164,6 @@
 | **Windows 10 教育版** | ✅ 支持 | 教育机构 |
 | **Windows 10 LTSC** | ✅ 支持 | 长期支持版 |
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="Windows 11" src="cards/card-01.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="Windows 10 专业版" src="cards/card-02.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="Windows 10 家庭版" src="cards/card-03.svg" />
-</td>
-</tr>
-</table>
-
 ---
 
 ## ⚡ 性能与便利性
@@ -249,20 +174,6 @@
 | **轻量工具** | 约 50 MB | 快速下载 |
 | **简洁界面** | 直观操作 | 适合所有人 |
 | **无广告** | 干净界面 | 舒适体验 |
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="快速激活" src="cards/card-04.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="轻量工具" src="cards/card-05.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="无广告" src="cards/card-06.svg" />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -276,20 +187,6 @@
 | **错误代码** | 重新运行激活工具 |
 | **激活后重启** | 等待系统自动恢复 |
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="网络问题" src="cards/card-07.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="权限问题" src="cards/card-08.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="重新运行" src="cards/card-09.svg" />
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📦 包含内容
@@ -300,20 +197,6 @@
 | **KMS 模块** | 密钥管理 | 模块 |
 | **版本检测** | 自动识别 Windows 版本 | 模块 |
 | **使用手册** | 用户指南 | PDF |
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="激活工具" src="cards/card-01.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="KMS 模块" src="cards/card-02.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="使用手册" src="cards/card-03.svg" />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -326,20 +209,6 @@
 | **存储** | 50 MB 可用空间 | 100 MB (SSD) |
 | **网络** | 需要 | 稳定连接 |
 | **下载大小** | ~50 MB | ~50 MB |
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="操作系统" src="cards/card-04.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="内存" src="cards/card-05.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="存储" src="cards/card-06.svg" />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -368,20 +237,6 @@
 - 打开「设置」→「系统」→「关于」
 - 查看激活状态
 - 确认显示「Windows 已激活」
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="下载解压" src="cards/card-07.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="管理员运行" src="cards/card-08.svg" />
-</td>
-<td align="center" width="33%">
-  <img width="320" height="280" alt="验证激活" src="cards/card-09.svg" />
-</td>
-</tr>
-</table>
 
 <!-- 按钮 2 -->
 <div align="center">
